@@ -24,6 +24,9 @@ h1, h2, h3, h4, h5, h6 {
     float: left;
 }
 
+img {
+    width: 1000px;
+
 .container {
     width: 25%;
     float: left;
