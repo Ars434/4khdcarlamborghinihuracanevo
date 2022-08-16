@@ -54,6 +54,7 @@ img {
     transition: 0.5s;
     animation: anim 4s linear infinite;
     display: block;
+    text-align: center;
 }
 
 .btn:hover {
